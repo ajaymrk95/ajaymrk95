@@ -2,7 +2,7 @@
 
 <p >
   🎓 B.Tech CSE @ <strong>NIT Calicut</strong> <br/>
-  💻 Interests: Machine Learning, and Web Development <br/>
+  💻 Interests: Machine Learning and Web Development <br/>
 </p>
 
 ---
