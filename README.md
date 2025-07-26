@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ajay 👋</h1>
+<h1 >Hi there, I'm Ajay 👋</h1>
 
-<p align="center">
+<p >
   🎓 B.Tech CSE @ <strong>NIT Calicut</strong> <br/>
   💻 Interests: Machine Learning, and Web Development <br/>
 </p>
@@ -40,8 +40,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymrk21&show_icons=true&theme=tokyonight" />
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymrk95&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymrk21&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymrk95&theme=tokyonight"/>
 </p>
