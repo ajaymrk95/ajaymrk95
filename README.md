@@ -10,7 +10,7 @@
 ## 🌟 About Me
 
 - 🧠 Currently diving deeper into **Machine Learning**.
-- 🤝 Let's connect and collaborate on cool ideas!
+- 🤝 Looking Forward to build new MERN STACK Based Projects.
 
 ---
 
