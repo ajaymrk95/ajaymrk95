@@ -2,19 +2,15 @@
 
 <p >
   🎓 B.Tech CSE @ <strong>NIT Calicut</strong> <br/>
-  💻 Interests: Machine Learning and Web Development <br/>
+  Interests: Deep Learning, Devops <br/>
 </p>
 
 ---
 
-## 🌟 About Me
-
-- 🧠 Currently diving deeper into **Machine Learning**.
-- 🤝 Looking Forward to build new MERN STACK Based Projects.
 
 ---
 
-## 🔧 Tech Stack
+
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -30,7 +26,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect @
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajay-mahesh-ramakrishnan-43ba74319/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ajay_mrk21/)
@@ -38,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=ajaymrk95&show_icons=true&theme=tokyonight" />
