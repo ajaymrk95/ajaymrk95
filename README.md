@@ -2,7 +2,7 @@
 
 <p >
   🎓 B.Tech CSE @ <strong>NIT Calicut</strong> <br/>
-  Interests: Deep Learning, Devops <br/>
+  Interests: Deep Learning, DevOps, Yocto Framework<br/>
 </p>
 
 ---
