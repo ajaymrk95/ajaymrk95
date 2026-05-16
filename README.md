@@ -1,4 +1,4 @@
-<h1 >Hi there, I'm Ajay 👋</h1>
+<h1 >Hello there, I'm Ajay</h1>
 
 <p >
   🎓 B.Tech CSE @ <strong>NIT Calicut</strong> <br/>
