@@ -5,7 +5,6 @@
   Interests: Deep Learning, DevOps, Yocto Framework<br/>
 </p>
 
----
 
 
 ---
